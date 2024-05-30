@@ -1,4 +1,7 @@
+
 Button{
+    display: flex;
+    justify-content: space-between;
     padding: 10px 15px;
     background-color: rgb(0, 0, 0);
     border-radius: 10px;
